@@ -10,7 +10,7 @@ Este repositório é para estudantes em Python, para possam aumentar conheciment
 
 - Estrutura algoritmizada.
 
-##Como surgiu está ideia?
+## Como surgiu a ideia?
 
 - Ideia surgiu através de uns desafios que estava assistindo no youtube. (Canal: Curso em vídeo)
 
