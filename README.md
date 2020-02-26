@@ -10,13 +10,13 @@ Este repositório é para estudantes em Python, para possam aumentar conheciment
 
 - Estrutura algoritmizada.
 
-##Como surgiu está ideia:s
+##Como surgiu está ideia?
 
 - Ideia surgiu através de uns desafios que estava assistindo no youtube. (Canal: Curso em vídeo)
 
 - Logo após está ideia surgir pensei em muitas maneiras de dar  inicio nela.
 
-## Questão do projeto;
+## Questão do projeto
 
 - Um professor de "ED.F" decidiu organizar um jogo de basquete durante ás férias. Foi comparecida 3 salas, e
 apresentado apenas 15 alunos de cada sala, abaixo do que professor esperava. Sabendo que uma equipe de basquete
