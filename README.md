@@ -30,6 +30,11 @@ e qual sua posição.
 
 #Entrada de dados da biblioetcas:
 
+
+
+
+
+
 import random
 import math
 
