@@ -27,3 +27,39 @@ e qual sua posição.
 ## Entrada de Dados:
 
 - Importação de bibliotecas.
+
+#Entrada de dados da biblioetcas:
+
+import random
+import math
+
+#Dados da primeira equipe:
+
+print('Sala 1!'
+      ' Um passo a frente!')
+alunos = int(input('Digite quantos alunos estão presentes: '))
+
+##Entrada de dados do tipo str(), int() e bool().
+
+#Abaixo será entrada de alguns dados como :(Str, int, float, bool)
+
+aluno1 = str(input('Digite nome do aluno: '))
+aluno2 = str(input('Digite nome do próximo aluno: '))
+aluno3 = str(input('Digite nome do próximo aluno: '))
+aluno4 = str(input('Digite nome do próximo aluno: '))
+aluno5 = str(input('Digite nome do próximo aluno: '))
+
+#Idade dos alunos:
+
+aluno1 = int(input('Digite idade do aluno: '))
+aluno2 = int(input('Digite idade do próximo aluno: '))
+aluno3 = int(input('Digite idade do próximo aluno: '))
+aluno4 = int(input('Digite idade do próximo aluno: '))
+aluno5 = int(input('Digite idade do próximo aluno: '))
+
+#Número de cada aluno:
+
+lista = [aluno1, aluno2, aluno3, aluno4, aluno5]
+random.shuffle(lista)
+print('Ordem de cada número é: ')
+print(lista)
